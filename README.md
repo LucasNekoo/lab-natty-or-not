@@ -1,51 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto de Criação Musical: A História de Aurelion Sol
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto inovador busca integrar tecnologia e arte ao criar uma música que narra a história do personagem Aurelion Sol, do popular jogo League of Legends. Utilizando a IA Suno para composição musical e um processo criativo colaborativo, a música capta a essência cósmica e grandiosa do personagem, proporcionando uma experiência imersiva para os fãs do jogo e apreciadores de música
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Suno:
+
+Descrição: Uma IA de composição musical capaz de gerar melodias e harmonias baseadas em parâmetros específicos fornecidos pelo usuário.
+Uso no Projeto: Gerar as bases melódicas e harmônicas que evocam a atmosfera cósmica e majestosa de Aurelion Sol.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A primeira etapa envolveu uma pesquisa detalhada sobre o personagem Aurelion Sol. Isso incluiu:
+
+Estudo do Lore: Análise profunda da história, habilidades e papel de Aurelion Sol no universo de League of Legends. Isso ajudou a identificar os temas principais a serem abordados na música, como sua grandiosidade cósmica, sua arrogância e o conflito entre sua liberdade e escravidão.
+Definição dos Temas: Com base na pesquisa, foram definidos os temas e emoções que a música deveria transmitir, tais como majestade, poder, solidão e conflito interno.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+A música resultante será uma peça épica e evocativa que não só homenageia o personagem Aurelion Sol, mas também oferece uma experiência emocional e narrativa rica para os ouvintes. Espera-se que a trilha sonora sirva como uma ponte entre a comunidade de jogadores de League of Legends e a apreciação musical, destacando o poder da narrativa interativa e da composição colaborativa com a ajuda de IA.
